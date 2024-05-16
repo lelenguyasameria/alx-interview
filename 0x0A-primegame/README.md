@@ -1,13 +1,15 @@
-## Project name
+# Project name
 
-# 0x0A. Prime Game 
+## 0x0A. Prime Game 
 
 ## Developer's details
 **Name**: LELENGUYA SAMERIA
+
 **Email**: somearia711@gmail.com
+
 **Tel**: +254 759590314
 
-# Concepts needed
+## Concepts needed
 
 
     Prime Numbers:
@@ -28,7 +30,7 @@
         Loops and conditional statements for implementing game logic and algorithms.
         Arrays and lists for storing the integers and tracking removed numbers.
 
-# Resources:
+## Resources:
 
     Prime Numbers and Sieve of Eratosthenes:
         Khan Academy: Prime Numbers: Introduction to prime numbers.
@@ -46,9 +48,9 @@
 By grasping these concepts and making use of the recommended resources, you will be well-equipped to approach the problem with a solid understanding of both the mathematical and programming challenges involved. The key to success in this project lies in applying efficient algorithms to manage the game’s state and making optimal decisions based on the game’s rules.
 Additional Resources
 
-# Mock Technical Interview
+## Mock Technical Interview
 
-# Requirements
+## Requirements
 General
 
     Allowed editors: vi, vim, emacs
